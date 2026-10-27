@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**timliiang/timliiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tim, a 3rd-year Computer Science (University of Waterloo) and Business Administration (Wilfrid Laurier University) student in Canada.
 
-Here are some ideas to get you started:
+I typically build full stack projects and especially enjoy ones where technology meets finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is Java + Spring Boot, React, and TypeScript
+
+As of now, my favourite project is my **[3D renderer app](https://github.com/timliiang/3D-Renderer-in-Java)** inspired by game engines.
+
+Fun facts
+- I finished a half marathon and am looking to do a full next
+- I love tea, especially Mollytea (iykyk)
+- I can speak 4 languages if you include dialects
